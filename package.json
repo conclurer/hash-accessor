@@ -1,0 +1,29 @@
+{
+  "name": "hash-accessor",
+  "version": "1.0.0",
+  "description": "Typescript Hash Accessor Decorator",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && tape tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conclurer/hash-accessor.git"
+  },
+  "keywords": [
+    "typescript",
+    "decorator"
+  ],
+  "author": "Conclurer GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conclurer/hash-accessor/issues"
+  },
+  "homepage": "https://github.com/conclurer/hash-accessor#readme",
+  "devDependencies": {
+    "@types/node": "^4.0.30",
+    "@types/tape": "^4.2.27",
+    "tape": "^4.6.0",
+    "typescript": "^2.0.0"
+  }
+}

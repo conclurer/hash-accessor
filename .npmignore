@@ -1,5 +1,5 @@
 # IDEA
-.idea
+.idea/**/*
 
 # Generated files
 node_modules
